@@ -22,6 +22,9 @@ header {
 }
 .card {
   background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   border-radius: 15px;
   width: 250px;
   height: 365px;
@@ -31,6 +34,7 @@ header {
 }
 
 .card img {
+  margin: 0 auto;
   width: 80%;
 }
 .card h4 {
