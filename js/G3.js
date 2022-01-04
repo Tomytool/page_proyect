@@ -1,7 +1,7 @@
 $(document).ready(function () {
   let datos = {};
   let urlPdf = '';
-  $.get('./datos.json', function (data) {
+  $.get('../DatosJson/G3.json', function (data) {
     console.log(data);
     data.forEach((element) => {
       let imagen = element.url;
