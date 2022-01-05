@@ -1,14 +1,14 @@
 [
   {
     "key_0": "",
-    "SKU": "1706608",
-    "Producto": " Atornillador Paleta 6mmx4",
+    "SKU": "1706586",
+    "Producto": " Atornillador Phill N3 X 8 Ub",
     "Metro": 2,
     "Pasillo": 51,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/1706608",
-    "conjunto": "01 - Atornillador Pala/Plano",
+    "url": "http://sodimac.scene7.com/is/image/SodimacCL/1706586",
+    "conjunto": "02 - Atornillador Cruz",
     "marca": "Marca Propia",
-    "precio": 5490
+    "precio": 5967
   },
   {
     "key_0": "",
@@ -67,61 +67,6 @@
   },
   {
     "key_0": "",
-    "SKU": "6591647",
-    "Producto": " Repisa Spezia 80 Cm Bl",
-    "Metro": 13,
-    "Pasillo": 17,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/6591647",
-    "conjunto": "01 - Repisas Metalicas",
-    "marca": "General",
-    "precio": 8690
-  },
-  {
-    "key_0": "",
-    "SKU": "3789284",
-    "Producto": " Repisa Metal Tejido Cuadrado",
-    "Metro": 13,
-    "Pasillo": 17,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/3789284",
-    "conjunto": "01 - Repisas Metalicas",
-    "marca": "Marca Propia",
-    "precio": ""
-  },
-  {
-    "key_0": "",
-    "SKU": "1706586",
-    "Producto": " Atornillador Phill N3 X 8 Ub",
-    "Metro": 2,
-    "Pasillo": 51,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/1706586",
-    "conjunto": "02 - Atornillador Cruz",
-    "marca": "Marca Propia",
-    "precio": 5967
-  },
-  {
-    "key_0": "",
-    "SKU": "4021495",
-    "Producto": " Caja Ultraforte 120 Lt Azul",
-    "Metro": 7,
-    "Pasillo": 17,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/4021495",
-    "conjunto": "02 - Cajas Heavy Duty",
-    "marca": "General",
-    "precio": 20190
-  },
-  {
-    "key_0": "",
-    "SKU": "741256",
-    "Producto": " Mango Combo 18 (P/6 Lbs)...",
-    "Metro": 1,
-    "Pasillo": 52,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/741256",
-    "conjunto": "02 - Mazos",
-    "marca": "General",
-    "precio": 2390
-  },
-  {
-    "key_0": "",
     "SKU": "5302498",
     "Producto": " Taladro Percutor 12v + 29 Acc",
     "Metro": 2,
@@ -130,27 +75,5 @@
     "conjunto": "02 - Taladros Inalambricos Percutores",
     "marca": "Marca Propia",
     "precio": 64990
-  },
-  {
-    "key_0": "",
-    "SKU": "530251X",
-    "Producto": " Atornillador Inal 4v + 29 Acc",
-    "Metro": 2,
-    "Pasillo": 56,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/530251X",
-    "conjunto": "03 - Destornilladores Inalambricos",
-    "marca": "Marca Propia",
-    "precio": 22990
-  },
-  {
-    "key_0": "",
-    "SKU": "4021487",
-    "Producto": " Caja Bajo Cama 48lts",
-    "Metro": 5,
-    "Pasillo": 17,
-    "url": "http://sodimac.scene7.com/is/image/SodimacCL/4021487",
-    "conjunto": "05 - Cajas Bajo Cama",
-    "marca": "General",
-    "precio": 13990
   }
 ]
